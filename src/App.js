@@ -1,18 +1,12 @@
 import logo from './logo.svg';
+import React from 'react';
+import ReactDOM from 'react-dom';
 
 function App() {
   return (
     // eslint-disable-next-linenpm
 <body>
-<link rel="icon" href="./logo.gif"/>
-  <meta charset="UTF-8" />
-  <title>Welcome to hanilinux</title>
-  <meta name="description" content="hanilinux environment consists of portfolio about Maharani" />
-  <meta name="keywords" content="maharanirach" />
-  <meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" /><link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.4/css/bulma.min.css' /><link rel="stylesheet" href="./style.css" />
 <section class="hero is-fullheight">
-
   <div class="hero-body">
     <div class="container">
       <div class="columns">
