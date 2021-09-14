@@ -12,6 +12,7 @@ function App() {
   <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" /><link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.4/css/bulma.min.css' /><link rel="stylesheet" href="./style.css" />
 <section class="hero is-fullheight">
+
   <div class="hero-body">
     <div class="container">
       <div class="columns">
@@ -65,6 +66,7 @@ function App() {
     </div>
   </footer>
 </section>
+<script  src="./script.js"></script>
 </body>
   );
 }

@@ -11,7 +11,7 @@ const COMMANDS = {
   //resume: "<a href='./resume.pdf' class='success link'>resume.pdf</a>",
   experience: "Technical Support, Software Tester, Technical Writer, Web Developer",
   research: '<a href="">The blockchain concept in building a trusted ecosystem in the internet of things</a><br><a href="">honeypot webserver and home network detection system using raspberry pi',
-  portfolio: '<span class="code">Front-End:</span><a href="https://hannymaharani99.github.io/portfolio/ " target="_blank">Quote Generator</a><br><span class="code">Write-up: </span><a href="https://medium.com/@maharanirach/jenkins-misconfig-exploitation-1e3afdac6130" target="_blank">Jenkins Misconfig Exploit</a>'
+  portfolio: '<span class="code">Front-End:</span><a href="https://hannymaharani99.github.io/portfolio/ " target="_blank">Quote Generator</a><br><span class="code">Write-up: </span><a href="https://medium.com/@maharanirach/jenkins-misconfig-exploitation-1e3afdac6130" target="_blank">Jenkins Misconfig Exploit</a><br><span class="code">Application: </span><a href="https://hannymaharani99.github.io/musicplayer/" target="_blank">Mini Music Player App</a>'
 };
 let userInput, terminalOutput;
 
