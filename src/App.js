@@ -11,14 +11,14 @@ function App() {
               <div class="column-child sidebar shadow">
                 <div class="sidebar-header has-text-centered">
                   <div class="photo"><a href="https://hannymaharani99.github.io"><img src="logo-header.gif" /></a></div>
-                  <div title="memoji-maharani"><img src="Untitled design(1).png" /></div>
+                  <div title="memoji-maharani"><img src="new-img.png" /></div>
                   <br />
                   <h2 class="header-name">Maharani (Hanny)</h2>
                   <h5>Cyber Security Enthusiast</h5>
                   <div class="social-icons">
-                    <FaLinkedin><button onClick="location.href='https://www.linkedin.com/in/maharani28/';">Linkedin</button></FaLinkedin><br />
-                    <FaGithub><button onClick="location.href='https://github.com/hannymaharani99';">Github</button></FaGithub><br />
-                    <FaMedium><button onClick="location.href='https://medium.com/@maharanirach';">Medium</button></FaMedium><br />
+                   <button onClick="location.href='https://www.linkedin.com/in/maharani28/';">Linkedin<FaLinkedin></FaLinkedin></button><br />
+                  <button onClick="location.href='https://github.com/hannymaharani99';">Github<FaGithub></FaGithub></button><br />
+                  <button onClick="location.href='https://medium.com/@maharanirach';">Medium<FaMedium></FaMedium></button><br />
                   </div>
                   <div class="resume">
                   </div>
