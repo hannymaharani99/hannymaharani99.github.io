@@ -4,8 +4,7 @@ import './script';
 function App() {
   return (
     // eslint-disable-next-linenpm
-<body>
-<section class="hero is-fullheight">
+<body><section class="hero is-fullheight">
   <div class="hero-body">
     <div class="container">
       <div class="columns">
