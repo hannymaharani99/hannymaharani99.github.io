@@ -16,11 +16,9 @@ function App() {
               <br />
               <h2 class="header-name">Maharani (Hanny)</h2>
               <h5>Cyber Security Enthusiast</h5>
-              <div class="social-icons">
                 <a href="https://www.linkedin.com/in/maharani28/" title="click here to see her linkedin profile"><i class="fab fa-linkedin-in" /></a>
                 <a href="https://github.com/hannymaharani99" title="click here to see her github"><i class="fab fa-github-square" /></a>
                 <a href="https://medium.com/@maharanirach" title="Maharani on Medium"><i class="fa-brands fa-medium" /></a>
-              </div>
               <div class="resume">
               </div>
             </div>
@@ -51,14 +49,11 @@ function App() {
     </div>
   </div>
   <footer class="footer">
-    <div class="content has-text-centered">
       <p>
         Built with <i class="fas fa-heart icon"></i> in <i class="fab fa-react" style={{color: 'white'}} />
       </p>
-    </div>
   </footer>
 </section>
-<script  src="./script.js"></script>
 </body>
   );
 }
