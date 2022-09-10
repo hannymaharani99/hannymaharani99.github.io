@@ -1,4 +1,5 @@
 import React from 'react';
+import './script';
 
 function App() {
   return (
