@@ -12,15 +12,15 @@ function App() {
         <div class="column is-3 is-flex">
           <div class="column-child sidebar shadow">
             <div class="sidebar-header has-text-centered">
-              <div class="photo"><a href="https://maharanirach.com"><img src="logo-header.gif" /></a></div>
+              <div class="photo"><a href="https://hannymaharani99.github.io"><img src="logo-header.gif" /></a></div>
               <div title="created by @luxovum"><img src="cbrpnkgradient.png" /></div>
               <br />
               <h2 class="header-name">Maharani (Hanny)</h2>
-              <h5>Self-learning coder</h5>
+              <h5>Cyber Security Enthusiast</h5>
               <div class="social-icons">
-                <a href="https://www.linkedin.com/in/maharani28/" title="click here to see her linkedin profile"><i class="fab fa-linkedin-in"></i></a>
-                <a href="https://github.com/hannymaharani99" title="click here to see her github"><i class="fab fa-github-square"></i></a>
-                <a href="https://medium.com/@maharanirach" title="Maharani on Medium"><i class="fa-brands fa-medium"></i></a>
+                <a href="https://www.linkedin.com/in/maharani28/" title="click here to see her linkedin profile"><i class="fab fa-linkedin-in" /></a>
+                <a href="https://github.com/hannymaharani99" title="click here to see her github"><i class="fab fa-github-square" /></a>
+                <a href="https://medium.com/@maharanirach" title="Maharani on Medium"><i class="fa-brands fa-medium" /></a>
               </div>
               <div class="resume">
               </div>
