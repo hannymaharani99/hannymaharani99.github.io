@@ -6,7 +6,7 @@ body {
 body,
 footer,
 .hero-body {
-  background-color: rgb(20, 45, 37) !important;
+  background-color: rgb(205, 178, 130) !important;
 }
 
 a {
@@ -86,6 +86,7 @@ p {
 .dark-mode-text {
   color: #bdb9bf !important;
 }
+
 
 .icon-btn {
   border-radius: 50%;
