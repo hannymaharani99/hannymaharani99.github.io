@@ -19,9 +19,10 @@ function App() {
               <h2 class="header-name">Maharani (Hanny)</h2>
               <h5>Self-learning coder</h5>
               <div class="social-icons">
-                <a href="https://www.linkedin.com/in/maharani28/" title="click here to see her linkedin profile"><i class="fab fa-linkedin-in"></i></a>
-                <a href="https://github.com/hannymaharani99" title="click here to see her github"><i class="fab fa-github-square"></i></a>
-                <a href="mailto:contact@maharanirach.com" title="click here to send email to Maharani"><i class="fas fa-envelope-square"></i></a>
+                <a href="https://www.linkedin.com/in/maharani28/" title="click here to see her linkedin profile"><i class="fab fa-linkedin-in"></i></a><br>
+                <a href="https://github.com/hannymaharani99" title="click here to see her github"><i class="fab fa-github-square"></i></a><br>
+                <a href="mailto:maharaniulfa@protonmail.com" title="click here to send email to Maharani"><i class="fas fa-envelope-square"></i></a><br>
+                <a href="https://medium.com/@maharanirach" title="Maharani on Medium"><i class="fas fa-medium"></i></a>
               </div>
               <div class="resume">
               </div>
