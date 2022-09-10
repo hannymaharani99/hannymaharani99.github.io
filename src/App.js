@@ -34,7 +34,7 @@ function App() {
               <div class="icon-btn max"></div>
               <div class="terminal-bar-text is-hidden-mobile dark-mode-text">guest@hanilinux: ~</div>
             </div>
-            <div class="terminal-window primary-bg" onclick="document.getElementById('dummyKeyboard').focus();">
+            <div class="terminal-window primary-bg" onClick="document.getElementById('dummyKeyboard').focus();">
               <div class="terminal-output" id="terminalOutput">
                 <div class="terminal-line">
                   <span class="help-msg">Welcome to Maharani's portfolio — Type <span class="code">help</span> for a list of supported commands.</span>
