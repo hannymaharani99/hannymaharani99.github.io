@@ -1,5 +1,4 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
 
 function App() {
   return (
@@ -20,8 +19,7 @@ function App() {
               <div class="social-icons">
                 <a href="https://www.linkedin.com/in/maharani28/" title="click here to see her linkedin profile"><i class="fab fa-linkedin-in"></i></a>
                 <a href="https://github.com/hannymaharani99" title="click here to see her github"><i class="fab fa-github-square"></i></a>
-                <a href="mailto:maharaniulfa@protonmail.com" title="click here to send email to Maharani"><i class="fas fa-envelope-square"></i></a>
-                <a href="https://medium.com/@maharanirach" title="Maharani on Medium"><i class="fa-brand fa-medium"></i></a>
+                <a href="https://medium.com/@maharanirach" title="Maharani on Medium"><i class="fa-brands fa-medium"></i></a>
               </div>
               <div class="resume">
               </div>
@@ -55,7 +53,7 @@ function App() {
   <footer class="footer">
     <div class="content has-text-centered">
       <p>
-        Built with <i class="fas fa-heart icon"></i> in <i class="fab fa-react" style="{{color: white;}}"></i>
+        Built with <i class="fas fa-heart icon"></i> in <i class="fab fa-react" style={{color: 'white'}} />
       </p>
     </div>
   </footer>
