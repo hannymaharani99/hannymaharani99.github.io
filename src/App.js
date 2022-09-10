@@ -1,4 +1,7 @@
 import { FaMedium, FaLinkedin, FaGithub, FaHeart, FaReact } from 'react-icons/fa';
+import Button from 'react-bootstrap/Button';
+import ButtonGroup from 'react-bootstrap/ButtonGroup';
+import { IconContext } from "react-icons";
 
 function App() {
   return (
@@ -13,13 +16,18 @@ function App() {
                   <div class="photo"><a href="https://hannymaharani99.github.io"><img src="logo-header.gif" /></a></div>
                   <div title="memoji-maharani"><img src="new-img.png" /></div>
                   <br />
-                  <h2 class="header-name">Maharani (Hanny)</h2>
-                  <h5>Cyber Security Enthusiast</h5>
-                  <div class="social-icons">
-                   <button onClick="location.href='https://www.linkedin.com/in/maharani28/';">Linkedin<FaLinkedin></FaLinkedin></button><br />
-                  <button onClick="location.href='https://github.com/hannymaharani99';">Github<FaGithub></FaGithub></button><br />
-                  <button onClick="location.href='https://medium.com/@maharanirach';">Medium<FaMedium></FaMedium></button><br />
-                  </div>
+                  <h2 class="header-name">Maharani</h2>
+                  <h5>Tech Operation Specialist</h5>
+                  <br />
+                  <ButtonGroup aria-label="contact">
+                    <IconContext.Provider value={{ className: "shared-class", size: 30 }}>
+                      <>
+                        <Button variant="secondary" size="sm" href="https://www.linkedin.com/in/maharani28/" target="_blank" rel="noreferrer noopener"><FaLinkedin></FaLinkedin></Button>
+                        <Button variant="secondary" size="sm" href="https://github.com/hannymaharani99" target="_blank" rel="noreferrer noopener"><FaGithub></FaGithub></Button>
+                        <Button variant="secondary" size="sm" href="https://medium.com/@maharanirach" target="_blank" rel="noreferrer noopener"><FaMedium></FaMedium></Button>
+                      </>
+                    </IconContext.Provider>
+                  </ButtonGroup>
                   <div class="resume">
                   </div>
                 </div>
